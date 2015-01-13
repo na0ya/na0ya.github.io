@@ -9,7 +9,7 @@ name: na0ya - Developer's Log
 description: Software Engineer's blog for fun.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/1725182?v=3&s=40
+avatar: https://avatars1.githubusercontent.com/u/1725182?v=3&s=200
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: https://github.com/na0ya
+  github: na0ya
   instagram: 
   linkedin: 
   pinterest: 
