@@ -4,11 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, geeks
 
-### More Information
+### Whoami
 
-A place to include any other types of information that you'd like to include about yourself. 
+I'm na0ya as Software Engineer, mainly... maybe... probably...
+
+In sometimes, I'm working on Automation/DevOps parts or doing like manager stuff. Actually I don't like the manager stuff. I don't want someone to manage me either.
+
+I'm trying to learn the new technologies, then let's see.
+
+### Keywords
+
+Software Engineer, Automation Engineer, Infrastracture Engineer, Web Developer
+
+### StackShare
+
+Here is my tools for github project.
+
+[http://stackshare.io/na0ya](http://stackshare.io/na0ya)
 
 ### Contact me
 
